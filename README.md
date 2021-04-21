@@ -3,16 +3,16 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 ![resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
 ## Installation
-'''
+```
 git clone https://github.com/gulaygenc/kodluyoruzilkrepo.git
-'''
+```
 
 ## Usage
 Windows için:
-'''windows
+```windows
 cd kodluyoruzilkrepo
 code .
-'''
+```
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
